@@ -1,21 +1,13 @@
-# Gatsby & Netlify CMS Example
+# UMN Blockchain Site
 
-An example website built using Gatsby V2 and Netlify CMS. The website is a fake JavaScript meetup site that lists upcoming meetups, information about the meetup group, as well as a list of past meetups.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0b0d2733-9d37-405b-a3fc-e36edcbfe151/deploy-status)](https://app.netlify.com/sites/umnblockchain/deploys)
 
-The purpose of the repository is to provide an idea of how a Gatsby project is structured with Netlify CMS. You can easily deploy your own instance of this application by clicking the button below:
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/robertcoopercode/gatsby-netlify-cms)
-
-## Local Development
-
-### Prerequisites
-
-- Node (see [.nvmrc](./.nvmrc) for version)
+## Development
 
 ### Run the project
 
 ```
-$ git clone git@github.com:robertcoopercode/gatsby-netlify-cms.git
+$ git clone git@github.com:UMN-Blockchain/UMN-Blockchain-Website.git
 $ cd gatsby-netlify-cms
 $ yarn
 $ yarn develop
@@ -28,10 +20,8 @@ $ yarn build
 $ yarn serve
 ```
 
-### Setting up the CMS
+### Docs
 
-For details on how to configure the CMS, take a look at the [Netlify CMS Docs](https://www.netlifycms.org/docs/intro).
-
-## Useful Resources
+- For details on how to configure the CMS, take a look at the [Netlify CMS Docs](https://www.netlifycms.org/docs/intro).
 - ["Official" Gatsby and Netlify CMS starter](https://github.com/netlify-templates/gatsby-starter-netlify-cms)
 This starter includes a blog built with Gatsby and Netlify CMS. It was actually used as the starting off point for this repository.
